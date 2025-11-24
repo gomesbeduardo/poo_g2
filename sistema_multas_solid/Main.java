@@ -22,7 +22,7 @@ public class Main {
         int index = 0;
         String situacao = "Regular";
 
-        System.out.println("⚠️ Iniciando registro de infrações...");
+        System.out.println("Iniciando registro de infrações...");
 
         // Repetir até ficar suspensa
         while (!situacao.equals("Suspensa")) {
